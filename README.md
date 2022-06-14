@@ -3,5 +3,5 @@
 To run this project in your desktop, please: 
 
 ```
-install_irineuzinho.exe
+node app.js
 ``` 
