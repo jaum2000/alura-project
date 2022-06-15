@@ -1,1 +1,1 @@
-console.log ("Run system manager of games");
+console.log ("Running the system management of games");
